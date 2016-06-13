@@ -2,7 +2,8 @@
 Version update log
 
 -------------------------------------------------------------------------------------------------
-V1.0
+V2.0====>>>Developing
+2016-06-13~2016
 中文说明
 此版本只爬取网页中的a标签链接
 根据结果，可以导出所有URL
@@ -14,7 +15,19 @@ According to the results, you can export all URL
 According to the results, it can be derived according to the a tag link generated directory
 
 -------------------------------------------------------------------------------------------------
+V1.0
+2016-06-09~2016-06-11
+中文说明
+此版本只爬取网页中的a标签链接
+根据结果，可以导出所有URL
+根据结果，可以导出根据a标签链接生成的目录
 
+English explanation
+This version only crawl the web page in the a tag link
+According to the results, you can export all URL
+According to the results, it can be derived according to the a tag link generated directory
+
+-------------------------------------------------------------------------------------------------
 
 
 Copyright @2016 [MRYE] Powered By [网站精灵] Version 1.0.0
