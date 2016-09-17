@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 
+work部分
+direction=up向上 down向下   done=0未完成1完成  present=指令下发位置 time=指令下发时间  id=序号
+rest部分
+count=关机次数  shutdown=1开机0关机  
+-->
+<elevator>
+	<work>
+		<task direction="up" done="2" present="35" time="1483731361">
+			<destination>49</destination>
+		</task>
+		<task direction="down" done="2" present="8" time="1473731623">
+			<destination>2</destination>
+		</task>
+	    <task direction="up" done="2" present="22" time="1483731361">
+			<destination>29</destination>
+		</task>
+		<task direction="up" done="2" present="35" time="1473731725">
+			<destination>40</destination>
+		</task>
+		<task direction="up" done="2" present="4" time="1473731528">
+			<destination>12</destination>
+		</task>
+		<task direction="up" done="2" present="25" time="1483731361">
+			<destination>39</destination>
+		</task>
+		<task direction="down" done="2" present="5" time="1473731623">
+			<destination>3</destination>
+		</task>
+		<task direction="up" done="2" present="3" time="1473731361">
+			<destination>9</destination>
+		</task>
+		<task direction="down" done="2" present="22" time="1473731623">
+			<destination>11</destination>
+		</task>
+	</work>
+	<rest>
+		<shutdown count="0">1</shutdown>
+	</rest>
+</elevator>

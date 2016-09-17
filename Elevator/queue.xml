@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- 
+work部分
+direction=up向上 down向下   done=0未完成1乘坐中2完成  present=指令下发位置 time=指令下发时间  id=序号
+rest部分
+count=关机次数  shutdown=1开机0关机  
+--><elevator>
+	<work>
+		<task direction="down" done="2" present="5" time="1473731623">
+			<destination>3</destination>
+		</task>
+	</work>
+	<rest>
+		<shutdown count="0">0</shutdown>
+	</rest>
+</elevator>
